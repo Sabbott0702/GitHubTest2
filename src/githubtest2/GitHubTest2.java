@@ -26,7 +26,7 @@ public class GitHubTest2 {
     }
      
      public static void AbbottWasHere(){
-     System.out.println("Abbott was here");
+     System.out.println("Sean Abbott was here");
  }
 
 }
